@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+}
+body {
+    background-image: url(images/bg.jpg);
+    background-position: 0px -101px;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Start navigation */
+
+.logo {
+  color: #fff;
+}
+.padding-fix {
+  padding-top: 5rem;
+}
+.navbar {
+  margin-top: 1rem;
+}
+.navbar .box p {
+  color: #fff;
+  padding:0rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+.searchbox {
+  padding: 0.8rem;
+border: none;
+width: 100%;
+font-size: 1rem;
+color: #666;
+}
+.search-btn {
+  background-color: rebeccapurple;
+    border: none;
+    padding: 0.8rem;
+    color: #fff;
+    font-size: 1rem;
+}
+.listitem li {
+  color: #fff;
+  font-size: .8rem;
+  line-height: 20px;
+}
