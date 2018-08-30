@@ -32,6 +32,9 @@ width: 100%;
 font-size: 1rem;
 color: #666;
 }
+.resultlist {
+  margin-top:2%;
+}
 .search-btn {
   background-color: rebeccapurple;
     border: none;

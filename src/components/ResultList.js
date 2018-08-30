@@ -6,7 +6,7 @@ class ResultList extends Component {
     if(this.props.resultPlaces.results !== undefined ){
       var placeList = this.props.resultPlaces.results.map(name=> {
           return (
-            <li className="col-xs-2"> { name.name} </li>
+            <li className="col-xs-3"> { name.name} </li>
           )
       })
     }
